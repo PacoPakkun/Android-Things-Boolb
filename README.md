@@ -3,6 +3,8 @@
 <h2>Project Description</h2>
 Lampa functionala cu leduri RGB controlata de un modul Arduino Nano. Placuta Arduino comunica cu o aplicatie mobila prin intermediul unui modul Bluetooth HC-05. Aplicatia ofera posibilitatea de a porni sau opri lampa, dar si de a schimba culoarea luminii emise. 
 
+<img src="https://github.com/PacoPakkun/Android-Things-Boolb/blob/main/demo.jpg">
+
 <h2>Hardware Requirements</h2>
 <ul>
     <li>Arduino Nano - https://store.arduino.cc/products/arduino-nano</li>
