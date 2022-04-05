@@ -7,6 +7,8 @@ Lampa functionala cu leduri RGB controlata de un modul Arduino Nano. Placuta Ard
 <center><img src="https://raw.githubusercontent.com/PacoPakkun/Android-Things-Boolb/main/demo.jpeg" width="500px"></center>
 <br>
 <center><img src="https://raw.githubusercontent.com/PacoPakkun/Android-Things-Boolb/main/screenshot.jpeg" width="200px"></center>
+<br>
+<center><img src="https://raw.githubusercontent.com/PacoPakkun/Android-Things-Boolb/main/circuit.png" width="400px"></center>
 
 <h2>Hardware Requirements</h2>
 <ul>
