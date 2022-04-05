@@ -15,6 +15,8 @@ Lampa functionala cu leduri RGB controlata de un modul Arduino Nano. Placuta Ard
 
 <h2>Software Requirements</h2>
 <ul>
+    <li>Script Arduino - https://github.com/PacoPakkun/AndroidThings/blob/main/arduino.ino</li>
+    <li>Aplicatie Android - https://github.com/PacoPakkun/AndroidThings/tree/main/Boolb</li>
 </ul>
 
 <h2>Setup and Build</h2>
